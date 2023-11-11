@@ -1,0 +1,4 @@
+Abdullayev, Anar,  a.anar@microsoft.com,  a.anar, 0
+Isayev, Saleh,  i.saleh @facebook.com,  i.saleh, 0
+Kazimov, Aykhan, k.aykhan@yahoo.com,   k.aykhan, 0
+Aliyeva, Elvina, a.elvina @amazon.com, a.elvina, 0
